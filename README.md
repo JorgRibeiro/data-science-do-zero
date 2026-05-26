@@ -10,6 +10,45 @@ Este repositório será a minha versão de estudo do conteúdo do livro, com uma
 
 Cada capítulo possui sua própria pasta dentro de `capitulos/`. Em cada uma delas, o conteúdo poderá crescer com exercícios, explicações, exemplos e versões revisadas ao longo do estudo.
 
+## Como rodar o projeto
+
+### 1. Crie o ambiente virtual
+
+Primeiro, crie um ambiente virtual para isolar as dependências do projeto.
+
+Exemplo utilizando o `uv`:
+
+```bash
+uv venv --python 3.12 .venv
+```
+
+### 2. Ative o ambiente virtual
+
+Depois de criar o ambiente, ative-o:
+
+```bash
+source .venv/bin/activate
+```
+
+### 3. Instale as dependências
+
+Com o ambiente virtual ativado, instale as dependências do projeto:
+
+```bash
+uv pip install -r requirements.txt
+```
+
+### 4. Escolha onde executar os notebooks
+
+Você pode executar os notebooks de duas formas:
+
+- Pelo **VS Code**, utilizando a extensão do Jupyter.
+- Pelo navegador, utilizando o **JupyterLab**:
+
+```bash
+jupyter lab
+```
+
 ## Créditos e aviso
 
 - Livro-base: **Data Science do Zero - 2ª edição: noções fundamentais com Python**, de **Joel Grus**.
