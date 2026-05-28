@@ -66,13 +66,13 @@ Nesta adaptação, o conteúdo foi organizado em português, com implementaçõe
 
 ## Links citados pelo livro
 
-- [OkCupid Questions](http://blog.okcupid.com/index.php/the-best-questions-for-first-dates/)
-- [Facebook on coordinated migration](https://www.facebook.com/notes/facebook-data-science/coordinated-migration/10151930946453859)
-- [Facebook on NFL fandom](https://www.facebook.com/notes/facebook-data-science/nfl-fans-on-facebook/10151298370823859)
+- ~~[OkCupid Questions](http://blog.okcupid.com/index.php/the-best-questions-for-first-dates/)~~
+- ~~[Facebook on coordinated migration](https://www.facebook.com/notes/facebook-data-science/coordinated-migration/10151930946453859)~~
+- ~~[Facebook on NFL fandom](https://www.facebook.com/notes/facebook-data-science/nfl-fans-on-facebook/10151298370823859)~~
 - [Target's predictive modeling](http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html)
-- [Making government more effective](http://www.marketplace.org/topics/tech/beyond-ad-clicks-using-big-data-social-good)
-- [Helping homelessness](http://dssg.io/2014/08/20/paths-homelessness.html)
-- [Improving public health](https://plus.google.com/communities/109572103057302114737)
+- ~~[Making government more effective](http://www.marketplace.org/topics/tech/beyond-ad-clicks-using-big-data-social-good)~~
+- ~~[Helping homelessness](http://dssg.io/2014/08/20/paths-homelessness.html)~~
+- ~~[Improving public health](https://plus.google.com/communities/109572103057302114737)~~
 
 ## Observações pessoais
 
