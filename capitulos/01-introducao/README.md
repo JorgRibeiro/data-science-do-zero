@@ -22,7 +22,7 @@ A proposta é mostrar, desde o início, como dados simples podem ser organizados
 
 ## O que foi feito
 
-No notebook `cap_1.ipynb`, foi criada uma versão prática da rede fictícia **DataSciencester**.
+No notebook `cap_01.ipynb`, foi criada uma versão prática da rede fictícia **DataSciencester**.
 
 Foram definidos usuários, pares de amizade e estruturas auxiliares para representar a rede. A partir disso, o capítulo calcula quantos amigos cada usuário possui, ordena os usuários mais conectados e gera visualizações da rede.
 

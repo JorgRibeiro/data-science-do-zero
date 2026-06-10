@@ -40,13 +40,13 @@ O capítulo também serve para revisar a sintaxe essencial da linguagem e criar 
 
 ## O que foi feito
 
-No notebook [`cap_2.ipynb`](cap_2.ipynb), os principais tópicos do capítulo foram organizados em células curtas, com exemplos executáveis e comentários em português.
+No notebook [`cap_02.ipynb`](cap_02.ipynb), os principais tópicos do capítulo foram organizados em células curtas, com exemplos executáveis e comentários em português.
 
 Foram adicionados subtítulos explicativos no início dos tópicos para contextualizar cada assunto antes dos exemplos. O notebook funciona como uma revisão guiada da linguagem, com foco nos recursos que serão reutilizados nas implementações matemáticas e estatísticas dos capítulos seguintes.
 
 ## Arquivos do capítulo
 
-- [`cap_2.ipynb`](cap_2.ipynb): notebook principal do capítulo, com anotações, exemplos e experimentos de Python.
+- [`cap_02.ipynb`](cap_02.ipynb): notebook principal do capítulo, com anotações, exemplos e experimentos de Python.
 - [`README.md`](README.md): resumo do capítulo, objetivos, conceitos principais, links e instruções de execução.
 
 ## Figuras esperadas
